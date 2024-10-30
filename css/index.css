@@ -1,0 +1,49 @@
+.page:not(hr) {
+    width:50vw;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav {
+   background-color:#FDFBF1 ;
+   color: #004D4C;
+  
+}
+.feautured {
+    color:#B5460F ;
+    margin-bottom: 0;
+
+}
+ 
+a:link, a:visited {
+    color: #004D4C;
+    
+}
+
+a:hover {
+    
+    color: red;
+}
+
+.text {
+  text-align: center;
+}
+span {
+    font-weight: bolder;
+}
+.logo {
+    margin-left: 35%;
+   width: 30%;
+}
+
+.method {
+    margin-left: 2em;
+}
+.linea {
+    background-color:#FFDE8F ;
+    height: 1px;
+}
+.linea2 {
+    height: 1px;
+    background-color: #C3F3F2;
+}
